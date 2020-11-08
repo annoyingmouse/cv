@@ -38,19 +38,20 @@ Forgive the odd job title; it was not my choice and didn't even come with a poin
 `2014 - 2017` __Senior UI Developer__ [Arcus Global Ltd](https://www.arcusglobal.com/)
 
 Worked across teams as a UI Developer to enable a rich and simple user experience for our users with a focus on JS. Highlights include:
-- Architected and created portals to allow Local Governments to unify their interactions with constituents using the Salesforce platform.
-- I created a cross-platform mobile app to allow Building Inspectors to work remotely.
-- Created a mobile-based prototype for the Matilda System using Semantic UI and Twig. Implementing it as a mobile application using Firebase and AngularJS.
-- Created a prototype portal to interface between clients and AWS; this focus on serverless architecture is something I'm keen to explore.
+
+* Architected and created portals to allow Local Governments to unify their interactions with constituents using the Salesforce platform.
+* I created a cross-platform mobile app to allow Building Inspectors to work remotely.
+* Created a mobile-based prototype for the Matilda System using Semantic UI and Twig. Implementing it as a mobile application using Firebase and AngularJS.
+* Created a prototype portal to interface between clients and AWS; this focus on serverless architecture is something I'm keen to explore.
 
 `2010 - 2014` __Cloud Developer__ [Arcus Global Ltd](https://www.arcusglobal.com/)
 
-- A move away from the public sector while still working for the public sector.
-- I Served as the designer and developer of DataTAP, an award-winning platform for the publication of open data for the Royal Borough of Windsor and Maidenhead.
-- I Lead the development of Shimme, an innovative platform for communicating about psychiatric medication management for ARU and CPFT.
-- Developing and designing critical parts of the LGInform prototype, the Local Government Associations innovative platform for Council performance management and benchmarking.
-- I worked on the front-facing aspects of the Indigo Children's Centre Software.
-- I created Node.js applications to enable members of the public or professionals to report concerns to a London Borough, using Salesforce as a backend.
+* A move away from the public sector while still working for the public sector.
+* Served as the designer and developer of DataTAP, an award-winning platform for the publication of open data for the Royal Borough of Windsor and Maidenhead.
+* Lead the development of Shimme, an innovative platform for communicating about psychiatric medication management for ARU and CPFT.
+* Developed and designed critical parts of the LGInform prototype, the Local Government Associations innovative platform for Council performance management and benchmarking.
+* Worked on the front-facing aspects of the Indigo Children's Centre Software.
+* Created Node.js applications to enable members of the public or professionals to report concerns to a London Borough, using Salesforce as a backend.
 
 `2014` __Developer__ [Hope UK](http://www.hopeuk.org/)
 
@@ -61,9 +62,10 @@ I replaced this charity's archaic database with a web application and continue h
 Website design and development as well as social media advice for various clients and friends.
 
 `1997 - 2010` __Psychiatric Nurse__ Cambridgeshire and Peterborough NHS Foundation Trust
-- Worked as an RMN on nights
-- I introduced the formal recording of sleep patterns for all patients.
-- I completed a 10-month secondment as Night-Coordinator (Matron).
+
+* Worked as an RMN on nights
+* I introduced the formal recording of sleep patterns for all patients.
+* I completed a 10-month secondment as Night-Coordinator (Matron).
 
 ## Education
 
