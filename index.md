@@ -7,6 +7,7 @@ Coder, Writer and Archer.
 
 <div id="webaddress">
   <a href="annoyingmouse@gmail.com">annoyingmouse@gmail.com</a>
+  | 
 </div>
 
 ## Currently
@@ -17,11 +18,11 @@ I spend most of my time fascinated by, learning and implementing the newest tren
 
 I have spoken to [Robert Faldo](https://career-switching-coders.simplecast.com/episodes/dominic-myers-episode-6) about my experience in changing my career and I also talked with [Ben Donkin](https://www.youtube.com/watch?v=qsfMKbzeLvg) about remote working - I worked from home before it became quite so necessary.
 
-I share the things I have learnt online on [Stack Overflow](http://stackoverflow.com/users/592058/annoyingmouse) and [Codementor](https://www.codementor.io/@annoyingmouse). I also maintain and contribute to some Repos on [Github](https://github.com/annoyingmouse) and I'm honoured to be an Arctic Code Vault Contributor.
+I share the things I have learnt and try to help other online on [Stack Overflow](http://stackoverflow.com/users/592058/annoyingmouse) and [Codementor](https://www.codementor.io/@annoyingmouse).
 
 ### Specialises in
 
-HTML, CSS and JS - with a emphasis on Vue, but an abiding appreciation of Vanilla JS. I have used TypeScript and React as well as Angular, but not to the extent that I've used Vue. Please do check my GitHub profile to check my coding. I have also worked with Node and PHP.
+HTML, CSS and JS - with a emphasis on Vue, but an abiding appreciation of Vanilla JS. I have used TypeScript and React as well as Angular, but not to the extent that I've used Vue. Please do check my [GitHub profile](https://github.com/annoyingmouse) to check what else I've played with. On the back-end, I have also worked with Node and PHP.
 
 ## Occupation
 
@@ -35,7 +36,8 @@ __Web Developer - JavaScript & CSS Wizard__ [Vigilant Software](https://www.vigi
 
 Forgive the odd job title; it was not my choice and didn't even come with a pointy hat. I have been working here to help develop online regulatory software that saves time and money using the Vue JS library atop a .Net platform. 
 
-`2014 - 2017` __Senior UI Developer__ [Arcus Global Ltd](https://www.arcusglobal.com/)
+`2014 - 2017` 
+__Senior UI Developer__ [Arcus Global Ltd](https://www.arcusglobal.com/)
 
 Worked across teams as a UI Developer to enable a rich and simple user experience for our users with a focus on JS. Highlights include:
 
@@ -44,9 +46,9 @@ Worked across teams as a UI Developer to enable a rich and simple user experienc
 * Created a mobile-based prototype for the Matilda System using Semantic UI and Twig. Implementing it as a mobile application using Firebase and AngularJS.
 * Created a prototype portal to interface between clients and AWS; this focus on serverless architecture is something I'm keen to explore.
 
-`2010 - 2014` __Cloud Developer__ [Arcus Global Ltd](https://www.arcusglobal.com/)
+`2010 - 2014` 
+__Cloud Developer__ [Arcus Global Ltd](https://www.arcusglobal.com/)
 
-* A move away from the public sector while still working for the public sector.
 * Served as the designer and developer of DataTAP, an award-winning platform for the publication of open data for the Royal Borough of Windsor and Maidenhead.
 * Lead the development of Shimme, an innovative platform for communicating about psychiatric medication management for ARU and CPFT.
 * Developed and designed critical parts of the LGInform prototype, the Local Government Associations innovative platform for Council performance management and benchmarking.
