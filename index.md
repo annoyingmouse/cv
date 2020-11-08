@@ -21,16 +21,16 @@ I share the things I have learnt online on [Stack Overflow](http://stackoverflow
 
 ### Specialises in
 
-HTML, CSS, JS with a particular emphasis on Vue, but an abiding appreciation of Vanilla JS. I have used TypeScript and React as well as Angular, but not to the extent that I've used Vue. Please do check my GitHub profile to check my coding. I have also worked with Node and PHP.
+HTML, CSS and JS - with a emphasis on Vue, but an abiding appreciation of Vanilla JS. I have used TypeScript and React as well as Angular, but not to the extent that I've used Vue. Please do check my GitHub profile to check my coding. I have also worked with Node and PHP.
 
 ## Occupation
 
-`2017 -`
+`2017 - PRESENT`
 __Volunteer, [Code Club](https://www.codeclub.org.uk)__, Soham, UK
 		
 Keen on helping the next generation embrace technology, I volunteered to be a Code Club Volunteer at a Primary School. I have and have continued to develop resources better to teach modern JS techniques to children and young people. I was appointed as a [Code Club Champion](https://blog.codeclub.org/2018/02/01/meet-the-2018-code-club-champions/) in the first batch of such ambassadors.
 
-`2017 -`
+`2017 - PRESENT`
 __Web Developer - JavaScript & CSS Wizard__ [Vigilant Software](https://www.vigilantsoftware.co.uk/)
 
 Forgive the odd job title; it was not my choice and didn't even come with a pointy hat. I have been working here to help develop online regulatory software that saves time and money using the Vue JS library atop a .Net platform. 
