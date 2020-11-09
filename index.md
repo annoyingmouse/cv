@@ -66,7 +66,8 @@ I carried out website design and development as well as social media advice for 
 
 `1997 - 2010` __RMN__ CPFT
 
-* Worked as an RMN on nights
+
+* Worked as an RMN on nights.
 * I introduced the formal recording of sleep patterns for all patients.
 * I completed a 10-month secondment as Night-Coordinator (Matron).
 
