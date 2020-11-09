@@ -66,7 +66,6 @@ I carried out website design and development as well as social media advice for 
 
 `1997 - 2010` __RMN__ CPFT
 
-
 * Worked as an RMN on nights.
 * I introduced the formal recording of sleep patterns for all patients.
 * I completed a 10-month secondment as Night-Coordinator (Matron).
@@ -75,9 +74,14 @@ I carried out website design and development as well as social media advice for 
 
 I have a few professional qualifications from my nursing days and love to learn new things. I have previously been an AWS Certified Developer as well as being a Salesforce Certified Force.com Developer (until the certification retired). My formal qualifications are:
 
-`2001 - 2005` __Computer Science (MSc)__ ARU
-`1994 - 1997` __Professional Nursing Practice (BSc)__ ARU
-`1991 - 1994` __P2K Mental Health Nursing (Diploma)__ University of Sheffield
+`2001 - 2005` 
+__Computer Science (MSc)__ ARU
+
+`1994 - 1997` 
+__Professional Nursing Practice (BSc)__ ARU
+
+`1991 - 1994` 
+__P2K Mental Health Nursing (Diploma)__ University of Sheffield
 
 ## Publications
 
