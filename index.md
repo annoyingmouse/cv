@@ -91,15 +91,20 @@ I publish posts on development related subjects on my [blog](https://dev.to/mous
 
 ### Journals
 
-`2020` __Professional Front-end Developer Guide to the development triangle__ [Developer Economics blog](https://www.developereconomics.com/blog/professional-front-end-developer-guide-to-the-development-triangle) 
+`2020`
+__Professional Front-end Developer Guide to the development triangle__ [Developer Economics blog](https://www.developereconomics.com/blog/professional-front-end-developer-guide-to-the-development-triangle) 
 
-`2017` __A gentle introduction to Node.js__ [BCS](https://www.bcs.org/content-hub/a-gentle-introduction-to-nodejs/)
+`2017`
+__A gentle introduction to Node.js__ [BCS](https://www.bcs.org/content-hub/a-gentle-introduction-to-nodejs/)
 
-`2017` __A gentle introduction to p5js__ [BCS](https://www.bcs.org/content-hub/a-gentle-introduction-to-p5js/)
+`2017`
+__A gentle introduction to p5js__ [BCS](https://www.bcs.org/content-hub/a-gentle-introduction-to-p5js/)
 
-`2017` __ES6 destructuring__ [BCS](https://www.bcs.org/content-hub/es6-destructuring/)
+`2017`
+__ES6 destructuring__ [BCS](https://www.bcs.org/content-hub/es6-destructuring/)
 
-`2017` __Where do you code (JavaScript)__ [BCS](https://www.bcs.org/content-hub/where-do-you-code-javascript/)
+`2017`
+__Where do you code (JavaScript)__ [BCS](https://www.bcs.org/content-hub/where-do-you-code-javascript/)
 
 `2017` __Should I get involved in a Code Club?__ [BCS](https://www.bcs.org/content-hub/should-i-get-involved-in-a-code-club/)
 
