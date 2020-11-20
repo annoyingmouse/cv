@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="bee0b1d6-e8b6-4e91-881a-7e70f58b4c73" name="Default Changelist" comment="">
+    <list default="true" id="581fe3b7-63b1-4d7f-b0f8-1ed32a69c561" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/media/annoyingmouse-screen.css" beforeDir="false" afterPath="$PROJECT_DIR$/media/annoyingmouse-screen.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -9,84 +27,58 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1k0xhfIofa8WRqg76Ujt4EBsU2z" />
+  <component name="ProjectId" id="1k2cLuRRCFb9JC9avVpK5IGhYbD" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="bee0b1d6-e8b6-4e91-881a-7e70f58b4c73" name="Default Changelist" comment="" />
-      <created>1604851430930</created>
+      <changelist id="581fe3b7-63b1-4d7f-b0f8-1ed32a69c561" name="Default Changelist" comment="" />
+      <created>1604902073277</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1604851430930</updated>
-      <workItem from="1604851432044" duration="6147000" />
-      <workItem from="1604949921517" duration="354000" />
+      <updated>1604902073277</updated>
+      <workItem from="1604902074363" duration="4604000" />
+      <workItem from="1605707255123" duration="13000" />
+      <workItem from="1605857840127" duration="708000" />
     </task>
-    <task id="LOCAL-00001" summary="Change style">
-      <created>1604851499157</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1604851499157</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Using it in anger now">
-      <created>1604852728729</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1604852728729</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Should be nearly everything now">
-      <created>1604856390412</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1604856390412</updated>
-    </task>
-    <task id="LOCAL-00004" summary="ULs should work now">
-      <created>1604856635511</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1604856635511</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Change style" />
-    <MESSAGE value="Using it in anger now" />
-    <MESSAGE value="Should be nearly everything now" />
-    <MESSAGE value="ULs should work now" />
-    <option name="LAST_COMMIT_MESSAGE" value="ULs should work now" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="558" y="3" width="794" height="1025" key="CommitChangelistDialog2" timestamp="1604856635317">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="558" y="3" width="794" height="1025" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1604856635317" />
-    <state x="555" y="251" width="800" height="530" key="Vcs.Push.Dialog.v2" timestamp="1604858660961">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="555" y="251" width="800" height="530" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604858660961" />
-    <state x="623" y="228" width="672" height="678" key="search.everywhere.popup" timestamp="1604854610285">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="623" y="228" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1604854610285" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
