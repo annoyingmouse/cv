@@ -17,7 +17,7 @@ After the publication of my book on [Front-end Development](https://shop.bcs.org
 
 I spend most of my time fascinated by, learning and implementing the newest trends in web development (while keeping a weather eye on IE11). While I primarily work with HTML, CSS and the JS language - I am happy to use whatever will get the job done. My first career was as a psychiatric nurse in the NHS; I’ve worked in development for well over a decade now.
 
-I have been interviewed by [Robert Faldo](https://career-switching-coders.simplecast.com/episodes/dominic-myers-episode-6) about changing careers, [Ben Donkin](https://www.youtube.com/watch?v=qsfMKbzeLvg) about remote working and [CodingGame](https://www.codingame.com/blog/retraining-developer-interview-dom/) about retaining as a Coder.
+I have been interviewed by [Robert Faldo](https://career-switching-coders.simplecast.com/episodes/dominic-myers-episode-6) about changing careers, [Ben Donkin](https://www.youtube.com/watch?v=qsfMKbzeLvg) about remote working and [CodingGame](https://www.codingame.com/blog/retraining-developer-interview-dom/) about retaining as a coder.
 
 I share the things I have learnt and try to help other online on [Stack Overflow](http://stackoverflow.com/users/592058/annoyingmouse) and [Codementor](https://www.codementor.io/@annoyingmouse).
 
