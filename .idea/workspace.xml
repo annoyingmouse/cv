@@ -21,6 +21,10 @@
   <component name="ChangeListManager">
     <list default="true" id="581fe3b7-63b1-4d7f-b0f8-1ed32a69c561" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
+=======
+      <change beforePath="$PROJECT_DIR$/media/annoyingmouse-screen.css" beforeDir="false" afterPath="$PROJECT_DIR$/media/annoyingmouse-screen.css" afterDir="false" />
+>>>>>>> d2f06405cc56bef6bcf804f27a97b8619512a1a9
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +56,12 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\annoy\WebstormProjects\cv\media\fonts" />
+      <recent name="C:\Users\annoy\WebstormProjects\cv\media" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -62,8 +72,13 @@
       <updated>1604902073277</updated>
       <workItem from="1604902074363" duration="4604000" />
       <workItem from="1605707255123" duration="13000" />
+<<<<<<< HEAD
       <workItem from="1605857840127" duration="3379000" />
       <workItem from="1606803871271" duration="56000" />
+=======
+      <workItem from="1605857840127" duration="2624000" />
+      <workItem from="1605883593079" duration="1549000" />
+>>>>>>> d2f06405cc56bef6bcf804f27a97b8619512a1a9
     </task>
     <servers />
   </component>
@@ -81,5 +96,11 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="713" y="182" key="#CSS" timestamp="1605884800230">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="713" y="182" key="#CSS/0.0.1920.1040/1920.0.1920.1040/0.1080.1536.824@0.0.1920.1040" timestamp="1605884800230" />
   </component>
 </project>
